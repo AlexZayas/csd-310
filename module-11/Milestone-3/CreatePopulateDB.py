@@ -80,7 +80,8 @@ initial_data = {
         ("Jane Smith", "janesmith@example.com", "2023-02-01", "Active"),
         ("Alice Johnson", "alicejohnson@example.com", "2023-03-01", "Active"),
         ("Bob Brown", "bobbrown@example.com", "2023-04-01", "Active"),
-        ("Charlie Davis", "charliedavis@example.com", "2023-05-01", "Active")
+        ("Charlie Davis", "charliedavis@example.com", "2023-05-01", "Active"),
+        ("Sophia Garcia", "sophiagarcia@example.com", "2023-06-01", "Active")
     ],
     "Assets": [
         (1, "Cash", 50000.00, "2023-06-01"),
@@ -103,7 +104,8 @@ initial_data = {
         (2, "2023-06-30", 1000.00, "Percentage of Assets"),
         (3, "2023-06-30", 300.00, "Fixed Fee"),
         (4, "2023-06-30", 750.00, "Percentage of Assets"),
-        (5, "2023-06-30", 1250.00, "Fixed Fee")
+        (5, "2023-06-30", 1250.00, "Fixed Fee"),
+        (6, "2023-06-30", 1100.00, "Fixed Fee")
     ]
 }
 
